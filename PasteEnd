@@ -1,0 +1,12 @@
+这是第一代的git使用和基础概念
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   "\346\234\211\345\205\263\344\273\243\347\240\201\346\210\226\345\221\275\344\273\244\347\232\204\351\203\250\345\210\206.py"
+#	new file:   "\346\246\202\345\277\265\347\232\204\350\257\264\346\230\216.py"
+#
